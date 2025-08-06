@@ -1,0 +1,88 @@
+Kilka osób pytało, więc podzielę się moimi ustawieniami grup. Wszystko opisuję na swoim przykładzie, ale jeśli ktoś ma sugestie dotyczące usprawnień to zapraszam do dyskusji tutaj lub pw. Nie gryzę :)
+
+[size=14][b]Podział grup wojskowych[/b][/size]
+
+[b]Grupy ofensywne[/b]
+
+Podzieliłem wojska ofensywne na cztery dynamiczne grupy. Każda z tych grup oprócz MAŁY OFF ma swoje odpowiedniki dla wojsk znajdujących się [b]w domu[/b] oraz [b]poza domem[/b]. Dodatkowo posiadam osobną grupę dla [b]szlachcica poza domem[/b].
+
+[b]PEŁNY ATAK[/b]
+[spoiler=Spoiler][img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/Pe%C5%82ny%20w%20domu.PNG?raw=true[/img]
+[img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/Pe%C5%82ny%20poza.PNG?raw=true[/img][/spoiler]
+
+[b]3/4 ATAKU[/b]
+[spoiler=Spoiler][img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/3.4%20poza.PNG?raw=true[/img]
+[img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/3.4%20w%20domu.PNG?raw=true[/img][/spoiler]
+
+[b]1/2 ATAKU[/b]
+[spoiler=Spoiler][img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/1.2%20w%20domu.PNG?raw=true[/img]
+[img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/1.2%20poza.PNG?raw=true[/img][/spoiler]
+
+[b]MAŁY OFF[/b]
+[spoiler=Spoiler][img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/ma%C5%82y%20OFF.PNG?raw=true[/img][/spoiler]
+
+Czasem pojawiają się nietypowe sytuacje, np. wysłanie samych toporów czy lekkiej kawalerii, dlatego cały czas testuję te ustawienia. Ogólnie jednak wszystko działa dobrze.
+
+[b]Grupy defensywne[/b]
+
+Obecnie nie stosuję podziału na grupy defensywne, jednak można stworzyć np. grupę [b]CK poza[/b] (czyli wojska defensywne znajdujące się poza naszymi wioskami) czy coś podobnego.
+
+[size=14][b]Tworzenie i ustawianie ikon[/b][/size]
+
+Po utworzeniu grup warto przypisać do nich odpowiednie [b]ikonki[/b], co ułatwi zarządzanie wojskami. Jeśli chcemy korzystać z własnych ikon, należy je najpierw przygotować.
+
+[b]Jak stworzyć własne ikony?[/b]
+
+Pobierz ikonę jednostki z mapy(prawym i zapisz grafikę jako) tak, żeby wielkość się zgadzała i na tej ikonce można dodawać np. strzałki które można pobrać z internertu. Można zrobić to dowolnym programem. Ja robiłem chyba nawet w paincie.
+
+[spoiler=Spoiler][img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/ikona%20czysta.png?raw=true[/img][/spoiler]
+
+
+[b]Moje przykładowe ikony[/b]
+
+[spoiler=Spoiler][img]https://raw.githubusercontent.com/kosti7/plemiona-ikony/refs/heads/main/Toporek%20OFF%20w%20domu.png[/img]
+[img]https://github.com/kosti7/plemiona-ikony/blob/main/Toporek%20OFF%20poza.png?raw=true[/img]
+[img]https://github.com/kosti7/plemiona-ikony/blob/main/Szlachcic%20poza.png?raw=true[/img][/spoiler]
+
+[b]Tak to wygląda na mapie[/b]
+
+Ja mam 4 kolory:
+
+[b]PEŁNY ATAK[/b]
+
+kolor czerwony
+
+[b]3/4 ATAKU[/b]
+
+czerwony: 254
+zielony: 129
+niebieski: 132
+
+[b]1/2 ATAKU[/b]
+
+kolor pomarańczowy
+
+[b]MAŁY OFF[/b]
+
+kolor zielony
+
+[spoiler=Spoiler][img]https://raw.githubusercontent.com/kosti7/plemiona-instrukcja-grup/refs/heads/main/mapa%20grupy2.PNG[/img]
+[img]https://raw.githubusercontent.com/kosti7/plemiona-instrukcja-grup/refs/heads/main/mapa%20grupy1.PNG[/img]
+[/spoiler]
+
+[b]Gdzie hostować ikony?[/b]
+
+Aby ikony były widoczne w grze, trzeba je wrzucić na hosting. Większość darmowych hostingów usuwa pliki po kilku miesiącach, co oznacza konieczność ponownego ich dodawania i podmieniania linków.
+
+Alternatywnie polecam [b]GitHub[/b], gdzie pliki powinny działać bez problemów.
+
+
+[b]Instrukcja wrzucania ikon na GitHub[/b]
+
+Klikamy New repository[spoiler=Spoiler][img]https://raw.githubusercontent.com/kosti7/plemiona-instrukcja-grup/refs/heads/main/nowe%20repozytorium.PNG[/img][/spoiler]
+
+Wprowadzamy nazwę i create repository[spoiler=Spoiler][img]https://raw.githubusercontent.com/kosti7/plemiona-instrukcja-grup/refs/heads/main/nazwa%20repozytorium.PNG[/img][/spoiler]
+
+Dodajemy nowy obraz do repozytorium, a następnie przeciągamy wybrane pliki i klikamy zielony przycisk[spoiler=Spoiler][img]https://github.com/kosti7/plemiona-instrukcja-grup/blob/main/dodawanie%20nowego%20obrazu%20do%20repozytorium1.PNG?raw=true[/img][/spoiler]
+
+Teraz po wejściu na swoje konto po lewej stronie mamy drzewko repozytorium. Po otwarciu i kliknięciu w interesujący nas obrazek wybieramy prawym przyciskiem "Kopiuj adres obrazka". Ten link wklejamy na mapie w naszej grupie tutaj:[spoiler=Spoiler][img]https://raw.githubusercontent.com/kosti7/plemiona-instrukcja-grup/refs/heads/main/link%20do%20obrazka%20grupy.PNG[/img][/spoiler]
